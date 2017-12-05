@@ -1,0 +1,44 @@
+githubandgoodies
+(this file part was made in 2017)
+@honguito98 account https://github.com/Honguito98
+
+enctool-batch First: committed on Sep 13 [2017] | Last: committed on Sep 13 [2017]
+batch-game-batch-adventures First: Sep 8 [2017] | Last: Sep 8 [2017]
+batch-game-batchcraft First: Sep 8 | Last: Sep 8
+pic-editor-batch First: Sep 8 | Last: Sep 8
+map-editor-batch First: Dec 23, 2013 "Initial directory structure." by nobody, then Dec 24, 2013 with no commit msg shows email, one more in Jan 8, 2014 | Last: Sep 8
+batch-game-shoot-em First: Sep 7 | Last: Sep 7
+batch-game-ansi-dude First: Sep 7 | Last: Sep 7
+batch-game-flappy-bird First: Sep 7 | Last: Sep 7
+batch-game-viewpoint First: Jul 20, 2016 | Last: Jul 21, 2016
+Seta-Engine-for-Batch-games First: Apr 26, 2016 | Last: Apr 26, 2016
+
+sourceforge-files
+Brought to you by: honguito98 https://sourceforge.net/u/honguito98/profile/
+Username: honguito98 Joined: 2014-05-16 18:25:07 Location: Mexico / CST Gender: Male ||*BDS*|| Game developer | Skills: Programming Language ; C ; Java
+
+Demos\LickWeed Color.zip 	2014-09-18
+Examples\The_Smile	2014-05-18
+Examples\README.txt	2014-05-18
+GPU\[in development] D\_Alpha_ Seta_Gpu_D.zip	2014-12-15
+GPU\0.0.2\Seta_Gpu_Mini.zip	2014-05-17
+          README.txt	2014-05-17	
+GPU\0.0.1\Seta_Gpu_Mini.zip	2014-05-17
+          README.txt	2014-05-17
+Games\BatchCraft\BatchCraft_rev0.01.zip	2015-02-03
+Games\Shoot_Em_Batch\1.2a\Shoot_em_Batch_1.2a.zip	2014-06-03
+                          README.txt	2014-06-03
+Games\Shoot_Em_Batch\0.5a\Shoot__em_Batch_0.5a.zip	2014-06-03
+
+sourceforge-svn
+https://sourceforge.net/p/seta-engine/code/HEAD/tree/
+File	            Date	     Author	    Commit
+Seta_Gpu_Mini.zip	2014-05-17	 honguito98	[r1]
+
+others_non_official
+recovered files or something....
+
+http://s1060.photobucket.com/user/honguito98/media/How_Works_Seta_1.png.html?sort=3&o=12
+http://s1060.photobucket.com/user/honguito98/media/How_Works_Seta_2.png.html?sort=3&o=13
+
+as you see first commit "May 17, 2014" it's because of svn import
