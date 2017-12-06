@@ -42,3 +42,30 @@ http://s1060.photobucket.com/user/honguito98/media/How_Works_Seta_1.png.html?sor
 http://s1060.photobucket.com/user/honguito98/media/How_Works_Seta_2.png.html?sort=3&o=13
 
 as you see first commit "May 17, 2014" it's because of svn import
+
+http://seta-engine.sourceforge.net/
+File dates might be incorrect :(
+Files downloaded thanks to a downloader tool (cmd, cross platform...)
+
+But looks like the tool got the original dates, and Windblows 8 shows those
+‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎01:59:17 seta-logo.png
+‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎03:02:51 Bg2.jpg
+‎2014 ‎m. ‎birželio ‎3 ‎d., ‏‎19:20:43 semb1_1.2.png
+‎2014 ‎m. ‎birželio ‎3 ‎d., ‏‎19:20:42 semb2_1.2.png
+‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎03:54:36 seta.ico
+‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎02:22:19 Seta_gpu_mini_1.png
+‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎02:22:20 Seta-gpu-a.png
+‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎02:22:19 Seta-gpu-c.png
+‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎23:22:08 gpu-mini.html
+‎2014 ‎m. ‎birželio ‎3 ‎d., ‏‎20:24:15 index.html
+‎2014 ‎m. ‎birželio ‎3 ‎d., ‏‎19:52:04 shootem.html
+
+Images discovered on site:
+
+<DOWNLOADED USING WEB BROWSER, SO THAT FAILS> Bg1.jpg
+Using that program for "Bg1.jpg" file
+gives "‎2014 ‎m. ‎gegužės ‎17 ‎d., ‏‎00:51:08"
+
+
+
+
